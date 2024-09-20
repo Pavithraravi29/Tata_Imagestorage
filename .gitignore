@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE files
+.idea/
+.vscode/
+
+# Byte-compiled files
+*.pyo
+*.pyc
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Log files
+*.log
